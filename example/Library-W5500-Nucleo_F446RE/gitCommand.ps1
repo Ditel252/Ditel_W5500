@@ -1,0 +1,3 @@
+﻿cp .\Core\Src\Ditel_W5500.c C:\Users\Suyam\Desktop\データ\個人関係\製品\プログラム関係\ドライバー\Ditel_W5500\Core\Src\Ditel_W5500.c
+cp .\Core\Inc\Ditel_W5500.h C:\Users\Suyam\Desktop\データ\個人関係\製品\プログラム関係\ドライバー\Ditel_W5500\Core\Inc\Ditel_W5500.h
+cp C:\Users\Suyam\Documents\PlatformIO\Projects\Club\W5500\Library-W5500-Nucleo_F446RE\* C:\Users\Suyam\Desktop\データ\個人関係\製品\プログラム関係\ドライバー\Ditel_W5500\example\Library-W5500-Nucleo_F446RE\
